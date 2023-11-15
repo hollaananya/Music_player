@@ -15,7 +15,7 @@ We have used a csv file to extract the song data and stored it in a linked list.
 gcc decibels_final.c -o decibels
 
 4)Run the code with the command:
-./decibels
+decibels
 
 OR
 Copy the content of decibels_final.c in a file and execute it separately.Make sure that the csv file is also in the same directory.
