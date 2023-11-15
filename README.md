@@ -16,3 +16,7 @@ gcc decibels_final.c -o decibels
 
 4)Run the code with the command:
 ./decibels
+
+OR
+Copy the content of decibels_final.c in a file and execute it separately.Make sure that the csv file is also in the same directory.
+
